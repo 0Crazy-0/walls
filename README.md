@@ -172,6 +172,8 @@
 
 ![wall85](Walls/wall85.jpg)
 
-![wall85](Walls/wall86.jpg)
+![wall86](Walls/wall86.png)
 
-![wall85](Walls/wall87.jpg)
+![wall87](Walls/wall87.jpg)
+
+![wall88](Walls/wall88.png)
